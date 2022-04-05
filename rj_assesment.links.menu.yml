@@ -1,0 +1,6 @@
+rj_assesment.assesment_menu:
+  title: 'Assesment'
+  route_name: rj_assesment.name_from
+  description: 'Custom Menu For Assesment'
+  parent: main
+  weight: 100

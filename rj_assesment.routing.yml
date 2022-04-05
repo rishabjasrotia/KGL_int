@@ -1,0 +1,7 @@
+rj_assesment.name_from:
+  path: '/add/name'
+  defaults:
+    _title: 'Assesment Form'
+    _form: '\Drupal\rj_assesment\Form\NameForm'
+  requirements:
+    _permission: 'access content'

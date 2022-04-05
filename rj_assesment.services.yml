@@ -1,0 +1,5 @@
+services:
+  rj_assesment.custom_logger:
+    class: Drupal\rj_assesment\CustomLogger
+    arguments:
+      - '@logger.factory'
